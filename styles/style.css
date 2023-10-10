@@ -1,1 +1,15 @@
+/* COLORS
+#00B300
+#007D00
+#BFFFBF
+#80FF80
+#FFFFFF
+*/
 
+body {
+    background-color: #80FF80;
+}
+
+.navbar-toggler {
+    color: #00B300;
+}
