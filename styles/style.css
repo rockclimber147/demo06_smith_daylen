@@ -8,8 +8,25 @@
 
 body {
     background-color: #80FF80;
+    font-family: delta-gothic-one;
 }
 
 .navbar-toggler {
     color: #00B300;
+    background-color: #80FF80;
+}
+
+.navbar-light {
+    background-color: #BFFFBF;
+    color: #00B300;
+    
+}
+
+.bg-info {
+    background-color: #00B300;
+    color: #00B300;
+}
+
+.navbar-nav {
+    background-color: #00B300;
 }
